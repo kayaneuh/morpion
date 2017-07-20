@@ -16,7 +16,6 @@ class BoardCase
 end
 
 
-
 class Board
   include Enumerable
   #TO DO : la classe a 1 attr_accessor, une array qui contient les BoardCases
