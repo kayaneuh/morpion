@@ -138,5 +138,6 @@ puts " voici le nom du joueur 2 #{d} "
 
 end
 
+#Idées amélioration: Couleurs
 
 Game.new.go
